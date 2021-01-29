@@ -18,5 +18,7 @@ Tools:
 • ExtentReports
 
 Execution:
+
     Maven clean
+    
     Maven test
